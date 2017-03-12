@@ -1,0 +1,54 @@
+						Computer Networks-2
+
+Timestamp:Dec 2015
+
+Part-A
+
+1a. Differentiate between connection oriented and connection-less services.								<04>
+1b. Define routing and its goals.													<06>
+1c. Explain Dijkstra's algorithm. Consider the network given below in Fig 1(c).								<10>			    Use the Dijkstra's shortest path algorithm to find the shortest paths from node4 to other nodes.
+
+
+2a. Explain the FIFO and priority queue scheduling for managing traffic at flow level.							<10>
+2b. Define congestion control with graph. Explain the leaky bucket algorithm for policing the traffic at flow level. 			<10>
+
+
+3a.Explain  the IP address classification.Identify the following IP address to which class they belong to:				<07>
+	3a.(1) 200-58-20-165
+	3a.(2) 128-167-23-20
+	3a.(3) 16-196-128-50
+	3a.(4) 150-156-10-10
+3b.A host in an organization has an IP address 150-32-64-34 and subnet mask 255-255-240-0.What is the address of this subnet?		<06>
+3c. Give the format of IPv6 basic header. Compare IPv6 with IPv4.									<07>
+
+
+4a.Write a note on:															<10>
+	4a.(1) IGMP protocol		
+	4b.(2) Mobile IP
+4b.Explain the three way handshake for establishing a TCP connection.									<06>
+4c.Write a short note on routing information protocol.											<04>
+
+
+Part-B
+5a. Explain the routing table poisoning and denial of service attacks.									<08>
+5b. Define network management and explain SNMP and SNMP messages.									<08>
+5c. Differentiate between DES and RSA.													<04>
+
+6a. Define MPLS.Explain its operation.													<06>
+6b. Explain the classification if resource allocation schemes.										<06>
+6c. With a neat diagram, explain the differentiated services of Qos.									<08>
+
+
+7a. Briefly explain MPEG standards and frame types for compression.									<06>
+7b. With a neat diagram, explain the H-323 components and list the steps in signaling.							<06>
+7C. Explain session initiation protocol(SIP) in detail.											<08>
+
+
+8a. Write short notes on:														<08>
+	8a.(1)Zigbee technology
+	8a.(2)Clustering in sensor networks
+8b. Briefly explain the direct and multihop routing of intra-cluster routing protocol, with the help of relevant diagrams		<06>
+8c. Explain sensor node structure with relevant figure.											<06>
+
+
+ 

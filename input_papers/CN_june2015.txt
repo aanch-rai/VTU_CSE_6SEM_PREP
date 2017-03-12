@@ -1,0 +1,47 @@
+						Computer Networks-2
+
+Timestamp : June 2015
+
+Part-A
+1a. Explain the diagram and virtual circuit packet switching with delay calculations diagrams.						<08>
+1b. With neat diagram, explain the generic packet switch.										<04>
+1c. Consider the following diagram:													<08>
+	1c.(1)Use Dijkstra's algorithm to find the set of shortest paths from node4 to the other nodes.
+	1c.(2)Find the set of associated routing table entries.
+
+
+2a. Discuss the priority and weighted fair queuing.											<06>
+2b. A host in an organisation has an IP address of 150.32.64.34 and a subnet mask 255.255.240.0. What is the address of this subnet?What is the range of IP address that a host can have on this subnet?										<05>
+2c. With the help of a diagram, explain the token bucket traffic shaper for congestion control						<07>
+
+
+3a. Give any 4 differences between IPv4 and IPv6.											<04>
+3b. Explain the significance of the following fields in the TCP segment.								<08>
+	3b.(1) Sequence
+	3b.(2) Acknowledgement number
+	3c.(3) Checksum
+	3d.(4) Windiwn size
+3c. Discuss in detail, the routing information protocol.										<08>
+
+4a. Briefly explain the packet formats and functionalities of AAL 3/4.									<12>
+4b. Discuss the UNI signalling in ATM network, with an example.										<08>
+
+Part-B
+5a. Explain the secrete key and public key cryptographic systems, with relevant block diagrams .					<06>
+5b. Apply RSA algorithm for the following:												<06>
+	5b.(1) Encrypt the following plain tent P=25 for p=7, q=11, e=17
+	5b.(2) Find the value of d and decrypt the ciphertext.
+5c. What is SNMP? Discuss the interactions between the SNMP management station and SNMP agent.						<08>
+
+
+
+6a. What is MPLS? Explain how the packets are forwarded using MPLS.									<06>
+6b. Discuss the differentiated services Qos approach.											<08>
+6c. Write a note on virtual private networks.												<06>
+
+7a. Explain the session initiation protocol, in detail.											<10>
+7b. Discuss the Huffman encoding technique.												<10>
+
+8a. Explain the DSDV protocol for mobile ad-Hoc networks.										<10>
+8b. Describe the DEEP clustering protocol for wireless sensor networks.									<10>	
+
